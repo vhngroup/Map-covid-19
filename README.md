@@ -3,7 +3,7 @@ Uso de la #API de #googlemaps consumir datos de otra API con notacion JSON, pers
 Basado en el proyecto original de @LeonidasEsteban : https://www.youtube.com/watch?v=UlfacaW8634
 
 
-![VHNGROUP](https://github.com/vhngroup/sisventas/blob/master/images/Header_Map.png)
+![VHNGROUP](https://github.com/vhngroup/Map-covid-19/blob/master/images/Header_Map.png)
 
 ## Datos tecnicos
 
